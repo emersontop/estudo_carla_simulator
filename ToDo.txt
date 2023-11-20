@@ -1,0 +1,18 @@
+## Criar funções adas:
+[] freio de emergência
+[] Diminuir velocidade
+
+## Melhorar percepção
+[] pegar distânca de objetos detecatos a frente
+[] Lane warp
+[] detecatr objetos da pista (no geral)
+[] semaforo
+[] placas de velocidade
+[] faixa de pedestres
+
+## Controle
+[] Controle longitudial robusto
+[] Controle lateral robusto
+
+## Comunicação entre carros
+[] Fazer ele se comunicar com outro veiculo
